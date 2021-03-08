@@ -1,0 +1,7 @@
+button{
+    padding: 4px 40px;
+    background-color: goldenrod;
+    border-radius: 4px;
+    border: 1px solid darkgoldenrod;
+    cursor: pointer;
+}

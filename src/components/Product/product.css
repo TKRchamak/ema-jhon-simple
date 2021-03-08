@@ -1,0 +1,17 @@
+.productStyle{
+    display: flex;
+    margin: 50px;
+    border-bottom: 1px solid gray;
+}
+
+.detailArea{
+    margin-left: 100px;
+}
+.detailArea button{
+    padding: 4px 40px;
+    background-color: goldenrod;
+    border-radius: 4px;
+    border: 1px solid darkgoldenrod;
+    cursor: pointer;
+}
+
