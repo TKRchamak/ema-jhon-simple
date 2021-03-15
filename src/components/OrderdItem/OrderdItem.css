@@ -1,0 +1,8 @@
+.itemStyle{
+    margin: 30px 200px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+.itemStyle button{
+    margin-bottom: 25px;
+}
